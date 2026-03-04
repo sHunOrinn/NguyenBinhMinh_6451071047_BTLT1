@@ -1,5 +1,3 @@
-// Viết một chương trình Dart để tạo một lớp Laptop với các thuộc tính [id, name, ram]. Tạo 3 
-// đối tượng từ lớp này và in ra tất cả thông tin của chúng. 
 class Laptop {
   int id;
   String name;
