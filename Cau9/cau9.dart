@@ -8,6 +8,7 @@ void main(List<String> args) {
   } else {
     print("$number không phải là số nguyên tố.");
   }
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }
 
 bool isPrime(int n) {

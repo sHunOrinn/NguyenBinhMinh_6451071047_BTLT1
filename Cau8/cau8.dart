@@ -7,7 +7,7 @@ void main() {
   int attempts = 0;
   bool guessedCorrectly = false;
 
-  print('Tôi đã chọn một số từ 1 đến 100. Hãy đoán số đó!');
+  print('Tôi đã chọn một số từ 1 đến 100. Hãy đoán số đó');
 
   while (!guessedCorrectly) {
     stdout.write('Nhập dự đoán của bạn: ');
@@ -34,4 +34,5 @@ void main() {
       print('Chính xác! Bạn đã đoán đúng sau $attempts lần đoán.');
     }
   }
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }

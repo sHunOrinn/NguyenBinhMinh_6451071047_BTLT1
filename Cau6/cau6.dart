@@ -9,4 +9,5 @@ void main(List<String> args) {
   } else {
     print("Chuỗi '$str' không phải là Palindrome");
   }
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }

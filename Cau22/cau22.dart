@@ -5,6 +5,7 @@ void main(List<String> args) {
 
   List<House> houses = [house1, house2, house3];
   houses.forEach((house) => house.displayInfo());
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }
 
 class House {

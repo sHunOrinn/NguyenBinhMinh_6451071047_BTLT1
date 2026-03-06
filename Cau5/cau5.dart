@@ -5,6 +5,7 @@ void main() {
   List<int> ptuChung = timPtuChung(a, b);
   
   print(ptuChung);
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }
 
 List<int> timPtuChung(List<int> a, List<int> b) {

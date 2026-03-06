@@ -11,5 +11,6 @@ void main(List<String> args) {
     }
   }
 
-  print("Các ước của $n là: ${uoc.join(', ')}");
+  print("Các ước của $n là: $uoc");
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }

@@ -5,4 +5,5 @@ void main() {
   for (var gender in Gender.values) {
     print(gender);
   }
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }

@@ -12,4 +12,5 @@ void main(List<String> args) {
   } else {
     print("Vui long nhap vao ten va tuoi hop le.");
   }
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }

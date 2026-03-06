@@ -1,6 +1,7 @@
 void main(List<String> args) {
   cat myCat = cat(1, "Chos", "Gray", "Meow");
   myCat.display();
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }
 
 class animal {

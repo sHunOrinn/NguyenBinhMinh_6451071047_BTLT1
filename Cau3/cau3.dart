@@ -7,4 +7,5 @@ void main() {
       print(x);
     }
   }
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }

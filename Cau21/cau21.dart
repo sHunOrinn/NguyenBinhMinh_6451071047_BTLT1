@@ -18,4 +18,5 @@ void main() {
   laptop1.displayInfo();
   laptop2.displayInfo();
   laptop3.displayInfo();
+  print("Họ và tên: Nguyễn Bình Minh\nMSSV: 6451071047");
 }
